@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C2 Old Comment=TAJD227K010RNJ New Comment=220uf
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Change Net Name : Old Net Name=GND New Net Name=12V

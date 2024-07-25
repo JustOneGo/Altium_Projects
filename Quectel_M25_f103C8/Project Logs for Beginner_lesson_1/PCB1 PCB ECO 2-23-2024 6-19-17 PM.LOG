@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=VSSA_STM32 Pin=U5-34
+Removed Pin From Net: NetName=VSSA_STM32 Pin=U5-36
+Removed Pin From Net: NetName=VSSA_STM32 Pin=U5-37
+Removed Member From Class: ClassName=Sheet1 Member=U5
+Added Component: Designator=B?(TS046695BK160SMT)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/ts04-66-95-bk-160-smt/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS04-66-95-BK-160-SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-TS046695BK160SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS04-66-95-BK-160-SMT?qs=A6eO%252BMLsxmRHS9UJ0C8iIA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.87mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C200G8HACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0603C200G8HACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0603C200G8HACTU?qs=W0yvOO0ixfFF9ypbpYI35Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.87mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0603C200G8HACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0603C200G8HACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0603C200G8HACTU?qs=W0yvOO0ixfFF9ypbpYI35Q%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC2012X110N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SM0805RC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM0805RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "749-SM0805RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bivar/SM0805RC?qs=jaLxTFIJCivm3JSYe5gHjQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X60N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CR0805-FX-1003ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cr0805-fx-1003elf/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/chpreztr.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0805-FX-1003ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR0805FX-1003ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-FX-1003ELF?qs=tknLyCMIRbPd3RvyRhvkuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRG0603F510R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CRG0603F510R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRG0603F510R?qs=qj6TO2nKJqi0GHfBlDwMPg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(ABS06)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ABS06-127-32.768KHZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/abs06-127-32.768khz-t/abracon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Resonators/ABS06.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABS06-127-32.768KHZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-ABS0612732.768KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/ABS06-127-32.768KHZ-T?qs=wUXugUrL1qxIf8zF6vMtIQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=B?-1
+Added Pin To Net: NetName=VSSA_STM32 Pin=B?-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Added Pin To Net: NetName=VSSA_STM32 Pin=C?-1
+Added Pin To Net: NetName=VSSA_STM32 Pin=C?-1
+Added Pin To Net: NetName=VSSA_STM32 Pin=LED?-1
+Added Pin To Net: NetName=VSSA_STM32 Pin=R?-1
+Added Pin To Net: NetName=VB_STM32 Pin=R?-2
+Change Net Name : Old Net Name=4V4 New Net Name=4V
+Added Pin To Net: NetName=BOOT0 Pin=IC4-44
+Added Pin To Net: NetName=BOOT0 Pin=R?-2
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=LOSC_IN Pin=C?-2
+Added Pin To Net: NetName=LOSC_IN Pin=IC4-3
+Added Pin To Net: NetName=LOSC_IN Pin=Y?-2
+Added Net: Name=LOSC_IN
+Added Pin To Net: NetName=LOSC_OUT Pin=C?-2
+Added Pin To Net: NetName=LOSC_OUT Pin=IC4-4
+Added Pin To Net: NetName=LOSC_OUT Pin=Y?-1
+Added Net: Name=LOSC_OUT
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R?-1
+Added Net: Name=NetLED?_2
+Added Class: Name=Sheet3
+Added Member To Class: ClassName=Schematic Member=Component B? TS04-66-95-BK-160-SMT
+Add Class Member: Failed to add class member : Component C3 22uF
+Add Class Member: Failed to add class member : Component C5 22uF
+Add Class Member: Failed to add class member : Component C6 22uF
+Add Class Member: Failed to add class member : Component C12 22uF
+Add Class Member: Failed to add class member : Component C14 22uF
+Add Class Member: Failed to add class member : Component C15 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 20pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 20pF
+Added Member To Class: ClassName=Schematic Member=Component LED? SP
+Added Member To Class: ClassName=Schematic Member=Component R? 510R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component Y? 32.768kHz

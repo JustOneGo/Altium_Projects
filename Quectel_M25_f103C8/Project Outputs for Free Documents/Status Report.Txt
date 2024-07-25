@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:21:41 AM On 3/9/2024
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [PCB_Quectel_M25.PcbDoc]
+   Generated File[Pick Place for PCB_Quectel_M25.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:21:41 AM On 3/9/2024

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SIM_ANT Pin=R32-1
+Removed Member From Class: ClassName=Sheet3 Member=R32
+Added Pin To Net: NetName=SIM_ANT Pin=J4-1

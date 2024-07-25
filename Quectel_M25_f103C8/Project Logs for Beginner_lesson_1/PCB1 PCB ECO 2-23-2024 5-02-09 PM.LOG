@@ -1,0 +1,87 @@
+Added Component: Designator=U5(PCBComponent_1)
+Add component (AddParameter): Name = "BOMRemark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Added Pin To Net: NetName=VSSA_STM32 Pin=U5-34
+Added Pin To Net: NetName=VSSA_STM32 Pin=U5-36
+Added Pin To Net: NetName=VSSA_STM32 Pin=U5-37
+Added Member To Class: ClassName=Schematic Member=Component C1 B40900B5477M000
+Added Member To Class: ClassName=Schematic Member=Component C2 TAJD227K010RNJ
+Add Class Member: Failed to add class member : Component C3 22uF
+Added Member To Class: ClassName=Schematic Member=Component C4 47pF
+Add Class Member: Failed to add class member : Component C5 22uF
+Add Class Member: Failed to add class member : Component C6 22uF
+Added Member To Class: ClassName=Schematic Member=Component C7 470uf
+Added Member To Class: ClassName=Schematic Member=Component C8 100nf
+Added Member To Class: ClassName=Schematic Member=Component C9 100nf
+Added Member To Class: ClassName=Schematic Member=Component C10 100nf
+Added Member To Class: ClassName=Schematic Member=Component C11 100nf
+Add Class Member: Failed to add class member : Component C12 22uF
+Added Member To Class: ClassName=Schematic Member=Component C13 47pF
+Add Class Member: Failed to add class member : Component C14 22uF
+Add Class Member: Failed to add class member : Component C15 22uF
+Added Member To Class: ClassName=Schematic Member=Component C16 470uf
+Added Member To Class: ClassName=Schematic Member=Component C17 100nf
+Added Member To Class: ClassName=Schematic Member=Component C18 100nf
+Added Member To Class: ClassName=Schematic Member=Component C19 100nf
+Added Member To Class: ClassName=Schematic Member=Component C20 100nf
+Added Member To Class: ClassName=Schematic Member=Component C21 4.7uf
+Added Member To Class: ClassName=Schematic Member=Component C22 100nf
+Added Member To Class: ClassName=Schematic Member=Component C23 100nf
+Added Member To Class: ClassName=Schematic Member=Component C24 1uF
+Added Member To Class: ClassName=Schematic Member=Component C25 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C26 20pF
+Added Member To Class: ClassName=Sheet1 Member=Component C27 20pF
+Added Member To Class: ClassName=Schematic Member=Component D1 SS54B
+Added Member To Class: ClassName=Schematic Member=Component D2 ESDA17P50-1U1M
+Added Member To Class: ClassName=Schematic Member=Component IC1 LM2596S-5.0
+Added Member To Class: ClassName=Schematic Member=Component IC2 SY8089A
+Added Member To Class: ClassName=Schematic Member=Component IC3 SY8089A
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 STM32F103C8T6XXX
+Added Member To Class: ClassName=Sheet1 Member=Component IC5 MAX485CSA
+Added Member To Class: ClassName=Schematic Member=Component J1 691322310004
+Added Member To Class: ClassName=Sheet1 Member=Component J2 SWD
+Added Member To Class: ClassName=Schematic Member=Component L1 SRR1260-330M
+Added Member To Class: ClassName=Schematic Member=Component L2 2.2uh
+Added Member To Class: ClassName=Schematic Member=Component L3 2.2uh
+Added Member To Class: ClassName=Schematic Member=Component LED1 150080GS75000
+Added Member To Class: ClassName=Schematic Member=Component R1 RMCF0805FT150R
+Added Member To Class: ClassName=Schematic Member=Component R2 100k
+Added Member To Class: ClassName=Schematic Member=Component R3 100k
+Added Member To Class: ClassName=Schematic Member=Component R4 100k
+Added Member To Class: ClassName=Schematic Member=Component R5 453k
+Added Member To Class: ClassName=Schematic Member=Component R6 560k
+Added Member To Class: ClassName=Schematic Member=Component R7 10K
+Added Member To Class: ClassName=Schematic Member=Component R8 100k
+Added Member To Class: ClassName=Schematic Member=Component R9 100k
+Added Member To Class: ClassName=Schematic Member=Component R10 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R11 120R
+Added Member To Class: ClassName=Sheet1 Member=Component R12 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R13 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R14 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R15 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R17 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R18 1M
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Opened
+Added Member To Class: ClassName=Sheet1 Member=Component U5 M25
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 8Mhz

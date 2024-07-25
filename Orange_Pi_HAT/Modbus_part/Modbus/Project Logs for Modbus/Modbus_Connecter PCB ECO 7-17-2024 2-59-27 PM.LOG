@@ -1,0 +1,25 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Component: Designator=C1(CAPPRD500W65D1275H2200)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/single-ended/data_sheet/20/30/db/aec/b41858.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "22mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B41858C5108M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "871-B41858C5108M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=871-B41858C5108M"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=M_RX Pin=P1-5
+Added Pin To Net: NetName=TX_EN Pin=P1-6
+Added Pin To Net: NetName=M_TX Pin=P1-7
+Added Pin To Net: NetName=3V3 Pin=P1-10
+Added Pin To Net: NetName=+12V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Member To Class: ClassName=Sheet3 Member=Component C1 B41858C5108M000
+Added Member To Class: ClassName=Sheet3 Member=Component P2 Header 2

@@ -1,0 +1,98 @@
+Added Component: Designator=C1(CAPAE1030X1280N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/hybrid-polymer/data_sheet/20/30/db/aec/b40900.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B40900B5477M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "871-B40900B5477M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B40900B5477M000?qs=sPbYRqrBIVkjJ1xmSzm%2FSw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPM7344X310N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TAJD227K010RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tajd227k010rnj/avx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAJD227K010RNJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-TAJD227K010R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAJD227K010RNJ?qs=min0%252Bk%2FlUAadDEgYeVIB%252Bw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIOM5336X244N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-3/DSA-43270.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HY Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS54B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(KTT0005B)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM2596S-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm2596s-5.0/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/LM2596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2596S-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2596S-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2596S-5.0?qs=X1J7HmVL2ZGcOr96VNr%252B%2Fw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(691322310004)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/691322310004/Wurth+Electronics+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "691322310004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/691322310004/Wurth+Electronics+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(SRR1260-150M)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SRR1260-330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/srr1260-330m/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/SRR1260.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SRR1260-330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-SRR1260-330M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/SRR1260-330M?qs=R2jSSvul3fC3V4%252BTrq0P0w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LEDM2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/led/datasheet/150080GS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150080GS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080GS75000?qs=2kOmHSv6VfQRoTEZVk1mGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RMCF0805FT150R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rmcf0805ft150r/stackpole-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-RMCF_RMCP.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RMCF0805FT150R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "708-RMCF0805FT150R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RMCF0805FT150R?qs=FESYatJ8odKRN1MTHzs13Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetD1_1 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=+5 Pin=IC1-4
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NetC1_1 Pin=J1-4
+Added Pin To Net: NetName=NetD1_1 Pin=L1-1
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Member To Class: ClassName=Schematic Member=Component C1 B40900B5477M000
+Added Member To Class: ClassName=Schematic Member=Component C2 TAJD227K010RNJ
+Added Member To Class: ClassName=Schematic Member=Component D1 SS54B
+Added Member To Class: ClassName=Schematic Member=Component IC1 LM2596S-5.0
+Added Member To Class: ClassName=Schematic Member=Component J1 691322310004
+Added Member To Class: ClassName=Schematic Member=Component L1 SRR1260-330M
+Added Member To Class: ClassName=Schematic Member=Component LED1 150080GS75000
+Added Member To Class: ClassName=Schematic Member=Component R1 RMCF0805FT150R
+Added Room: Name=Schematic

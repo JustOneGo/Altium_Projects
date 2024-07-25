@@ -1,0 +1,109 @@
+Removed Member From Class: ClassName=Sheet1 Member=C9
+Removed Member From Class: ClassName=Schematic Member=C20
+Removed Member From Class: ClassName=Sheet1 Member=C22
+Removed Member From Class: ClassName=Sheet3 Member=C26
+Removed Member From Class: ClassName=Sheet1 Member=R11
+Removed Member From Class: ClassName=Sheet1 Member=R17
+Removed Member From Class: ClassName=Sheet1 Member=R26
+Removed Member From Class: ClassName=Sheet3 Member=R30
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C11
+Change Component Designator: OldDesignator=C5 NewDesignator=C21
+Change Component Designator: OldDesignator=C6 NewDesignator=C28
+Change Component Designator: OldDesignator=C7 NewDesignator=C20
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C3
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C4
+Change Component Designator: OldDesignator=C12 NewDesignator=C2
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C8
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C12
+Change Component Designator: OldDesignator=C20 NewDesignator=C31
+Change Component Designator: OldDesignator=C21 NewDesignator=C14
+Change Component Designator: OldDesignator=C22 NewDesignator=C15
+Change Component Designator: OldDesignator=C23 NewDesignator=C30
+Change Component Designator: OldDesignator=C24 NewDesignator=C16
+Change Component Designator: OldDesignator=C25 NewDesignator=C32
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Change Component Designator: OldDesignator=C30 NewDesignator=C24
+Change Component Designator: OldDesignator=C31 NewDesignator=C22
+Change Component Designator: OldDesignator=C32 NewDesignator=C23
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=IC1 NewDesignator=IC5
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC4
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC1
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC3
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R2 NewDesignator=R12
+Change Component Designator: OldDesignator=R3 NewDesignator=R13
+Change Component Designator: OldDesignator=R4 NewDesignator=R11
+Change Component Designator: OldDesignator=R5 NewDesignator=R16
+Change Component Designator: OldDesignator=R6 NewDesignator=R17
+Change Component Designator: OldDesignator=R7 NewDesignator=R14
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R9 NewDesignator=R3
+Change Component Designator: OldDesignator=R10 NewDesignator=R4
+Change Component Designator: OldDesignator=R11 NewDesignator=R5
+Change Component Designator: OldDesignator=R12 NewDesignator=R19
+Change Component Designator: OldDesignator=R13 NewDesignator=R1
+Change Component Designator: OldDesignator=R14 NewDesignator=R8
+Change Component Designator: OldDesignator=R15 NewDesignator=R6
+Change Component Designator: OldDesignator=R16 NewDesignator=R10
+Change Component Designator: OldDesignator=R17 NewDesignator=R9
+Change Component Designator: OldDesignator=R18 NewDesignator=R31
+Change Component Designator: OldDesignator=R19 NewDesignator=R30
+Change Component Designator: OldDesignator=R20 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R29
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R25 NewDesignator=R18
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R29 NewDesignator=R26
+Change Component Designator: OldDesignator=R30 NewDesignator=R20
+Change Component Designator: OldDesignator=S?1 NewDesignator=S1
+Change Component Designator: OldDesignator=Y1 NewDesignator=Y2
+Change Component Designator: OldDesignator=Y2 NewDesignator=Y1
+Added Member To Class: ClassName=Schematic Member=Component C6 22uf
+Added Member To Class: ClassName=Schematic Member=Component C7 470uf
+Added Member To Class: ClassName=Schematic Member=Component C8 100nf
+Added Member To Class: ClassName=Schematic Member=Component C9 100nf
+Added Member To Class: ClassName=Schematic Member=Component C10 100nf
+Added Member To Class: ClassName=Schematic Member=Component C11 100nf
+Added Member To Class: ClassName=Schematic Member=Component C12 100uF
+Added Member To Class: ClassName=Schematic Member=Component C13 47pF
+Added Member To Class: ClassName=Schematic Member=Component C14 100nf
+Added Member To Class: ClassName=Schematic Member=Component C19 22uf
+Added Member To Class: ClassName=Sheet1 Member=Component C20 20pF
+Added Member To Class: ClassName=Schematic Member=Component C21 4.7uf
+Added Member To Class: ClassName=Schematic Member=Component C22 100nf
+Added Member To Class: ClassName=Sheet1 Member=Component C26 20pF
+Added Member To Class: ClassName=Sheet1 Member=Component C28 20pF
+Added Member To Class: ClassName=Sheet3 Member=Component C30 33pF
+Added Member To Class: ClassName=Schematic Member=Component D2 ESDA17P50-1U1M
+Added Member To Class: ClassName=Schematic Member=Component IC1 LM2596S-5.0
+Added Member To Class: ClassName=Schematic Member=Component L2 2.2uh
+Added Member To Class: ClassName=Schematic Member=Component LED2 SP
+Added Member To Class: ClassName=Schematic Member=Component R2 100k
+Added Member To Class: ClassName=Schematic Member=Component R3 100k
+Added Member To Class: ClassName=Schematic Member=Component R4 100k
+Added Member To Class: ClassName=Schematic Member=Component R7 CR0805-FX-1002ELF
+Added Member To Class: ClassName=Sheet1 Member=Component R12 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R18 1M
+Added Member To Class: ClassName=Sheet1 Member=Component R24 10K
+Added Member To Class: ClassName=Sheet3 Member=Component R25 10K
+Added Member To Class: ClassName=Sheet3 Member=Component R27 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component Y2 32.768kHz

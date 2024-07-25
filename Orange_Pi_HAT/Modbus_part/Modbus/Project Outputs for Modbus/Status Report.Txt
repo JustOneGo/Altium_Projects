@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:07:54 PM On 7/18/2024
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Modbus_Connecter.PcbDoc]
+   Generated File[Modbus_Connecter_Legend_Top.gbr]
+   Generated File[Modbus_Connecter_Paste_Top.gbr]
+   Generated File[Modbus_Connecter_Soldermask_Top.gbr]
+   Generated File[Modbus_Connecter_Copper_Signal_Top.gbr]
+   Generated File[Modbus_Connecter_Copper_Signal_Bot.gbr]
+   Generated File[Modbus_Connecter_Soldermask_Bot.gbr]
+   Generated File[Modbus_Connecter_Paste_Bot.gbr]
+   Generated File[Modbus_Connecter_Legend_Bot.gbr]
+   Generated File[Modbus_Connecter_Profile.gbr]
+   Generated File[Modbus_Connecter.EXTREP]
+   Generated File[Modbus_Connecter.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 5:07:54 PM On 7/18/2024

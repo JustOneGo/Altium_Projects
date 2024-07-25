@@ -1,0 +1,14 @@
+Add Component: Footprint Not Found HDRV6W64P0X254_1X6_1524X254X909P
+Added Pin To Net: NetName=SCL Pin=IC4-43
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC4-42
+Added Net: Name=SDA
+Added Pin To Net: NetName=SPI_CLK Pin=IC4-15
+Added Net: Name=SPI_CLK
+Added Pin To Net: NetName=SPI_CS Pin=IC4-18
+Added Net: Name=SPI_CS
+Added Pin To Net: NetName=SPI_MISO Pin=IC4-16
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=IC4-17
+Added Net: Name=SPI_MOSI
+Added Member To Class: ClassName=Sheet1 Member=Component J3 240-004

@@ -1,0 +1,56 @@
+Removed Member From Class: ClassName=Sheet3 Member=C23
+Removed Member From Class: ClassName=Sheet3 Member=C24
+Removed Member From Class: ClassName=Sheet1 Member=C25
+Removed Member From Class: ClassName=Schematic Member=C27
+Removed Member From Class: ClassName=Schematic Member=C31
+Removed Member From Class: ClassName=Sheet1 Member=C31
+Removed Member From Class: ClassName=Sheet1 Member=IC2
+Removed Member From Class: ClassName=Sheet1 Member=IC3
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Removed Member From Class: ClassName=Schematic Member=R20
+Removed Member From Class: ClassName=Sheet3 Member=R20
+Removed Member From Class: ClassName=Sheet1 Member=R23
+Removed Member From Class: ClassName=Sheet3 Member=R23
+Removed Member From Class: ClassName=Sheet1 Member=R31
+Added Member To Class: ClassName=Schematic Member=Component C2 220uf
+Added Member To Class: ClassName=Schematic Member=Component C4 47pF
+Added Member To Class: ClassName=Schematic Member=Component C7 470uf
+Added Member To Class: ClassName=Schematic Member=Component C8 100nf
+Added Member To Class: ClassName=Schematic Member=Component C9 100nf
+Added Member To Class: ClassName=Schematic Member=Component C13 47pF
+Added Member To Class: ClassName=Schematic Member=Component C16 10pF
+Added Member To Class: ClassName=Sheet1 Member=Component C20 20pF
+Added Member To Class: ClassName=Schematic Member=Component C21 4.7uf
+Added Member To Class: ClassName=Schematic Member=Component C22 100nf
+Added Member To Class: ClassName=Sheet1 Member=Component C26 20pF
+Added Member To Class: ClassName=Sheet1 Member=Component C28 20pF
+Added Member To Class: ClassName=Sheet3 Member=Component C30 33pF
+Added Member To Class: ClassName=Sheet3 Member=Component C32 33pF
+Added Member To Class: ClassName=Schematic Member=Component D2 ESDA17P50-1U1M
+Added Member To Class: ClassName=Schematic Member=Component IC1 LM2596S-5.0
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 STM32F103C8T6XXX
+Added Member To Class: ClassName=Sheet1 Member=Component IC5 MAX485CSA
+Added Member To Class: ClassName=Schematic Member=Component L2 2.2uh
+Added Member To Class: ClassName=Schematic Member=Component LED1 150080GS75000
+Added Member To Class: ClassName=Schematic Member=Component R2 100k
+Added Member To Class: ClassName=Schematic Member=Component R3 100k
+Added Member To Class: ClassName=Schematic Member=Component R4 100k
+Added Member To Class: ClassName=Schematic Member=Component R6 560k
+Added Member To Class: ClassName=Schematic Member=Component R7 CR0805-FX-1002ELF
+Added Member To Class: ClassName=Sheet1 Member=Component R11 120R
+Added Member To Class: ClassName=Sheet1 Member=Component R12 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R13 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R14 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R16 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R17 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R18 1M
+Added Member To Class: ClassName=Schematic Member=Component R19 510R
+Added Member To Class: ClassName=Sheet3 Member=Component R22 47K
+Added Member To Class: ClassName=Sheet3 Member=Component R26 22R
+Added Member To Class: ClassName=Sheet3 Member=Component R29 22R
+Added Member To Class: ClassName=Sheet3 Member=Component R30 22R
+Added Member To Class: ClassName=Sheet1 Member=Component Y2 32.768kHz

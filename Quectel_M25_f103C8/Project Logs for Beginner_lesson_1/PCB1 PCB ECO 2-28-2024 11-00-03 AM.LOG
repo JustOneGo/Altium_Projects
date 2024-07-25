@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Sheet1 Member=R22
+Added Member To Class: ClassName=Sheet1 Member=Component C28 20pF
+Added Member To Class: ClassName=Sheet1 Member=Component R20 10K
+Add Class Member: Failed to add class member : Component U1 M25

@@ -1,0 +1,6 @@
+Remove Pin=IC4-1 From Net=VB_STM32
+Remove Pin=IC4-8 From Net=GND_STM
+Remove Pin=IC4-9 From Net=VDDA_STM32
+Remove Pin=IC4-29 From Net=TX_EN
+Remove Pin=IC4-30 From Net=M_TX
+Remove Pin=IC4-31 From Net=M_RX

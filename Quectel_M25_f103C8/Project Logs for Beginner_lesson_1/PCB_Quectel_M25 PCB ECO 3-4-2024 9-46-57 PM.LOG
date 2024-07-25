@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C12 Old Footprint=CAPPM3216X100N New Footprint=T495D
+Change Component Comment : Designator=C12 Old Comment=100uF New Comment=470uf
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPPM3216X100N"; UniqueID = "\KCMGXMFE" ("\KCMGXMFE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "T495D477K006ATE100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/t495d477k006ate100/kemet-corporation?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_T2009_T495.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T495D477K006ATE100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-T495D477K006E100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/T495D477K006ATE100?qs=JMiwNnuXh3pQ954ydQHvqQ%3D%3D"; VariantName = "[No Variations]"

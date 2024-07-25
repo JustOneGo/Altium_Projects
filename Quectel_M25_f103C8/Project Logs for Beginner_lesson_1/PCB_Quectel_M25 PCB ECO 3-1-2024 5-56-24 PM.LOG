@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=TX_EN Pin=R15-1
+Removed Pin From Net: NetName=VB_STM32 Pin=R15-2
+Removed Member From Class: ClassName=Sheet1 Member=R15

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SBAT Pin=U1-42
+Removed Pin From Net: NetName=SBAT Pin=U1-43
+Added Pin To Net: NetName=4V Pin=U1-42
+Added Pin To Net: NetName=4V Pin=U1-43

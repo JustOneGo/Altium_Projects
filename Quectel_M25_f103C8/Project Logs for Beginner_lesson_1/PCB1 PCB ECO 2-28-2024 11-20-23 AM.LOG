@@ -1,0 +1,13 @@
+Added Component: Designator=U?(PCBComponent_1)
+Add component (AddParameter): Name = "BOMRemark"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "option"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet3 Member=Component U? M25
+Added Room: Name=Schematic
+Added Room: Name=Sheet1
+Added Room: Name=Sheet3
